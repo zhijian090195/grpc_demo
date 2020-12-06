@@ -1,0 +1,12 @@
+{
+	"name": "grpc_demo",
+	"description": "A simple SkyRTC demo",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "3.1.0",
+		"node-uuid": ">= 1.4.1",
+		"skyrtc": ">= 0.0.0",
+		"ws": ">= 0.0.0"
+	},
+	"readmeFilename": "README.md"
+}
